@@ -1,11 +1,14 @@
 _repo: Mexico-and-Her-People-of-To-day-An-Account-of-the-Customs-Characteristics-Amusements-History-__60135
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mexico and Her People of Today
 contributor:
   photographer:
     agent_name: Birt, C. R.
     gutenberg_agent_id: '50811'
     url: http://www.gutenberg.org/2009/agents/50811
+covers:
+- cover_type: archival
+  image_path: 60135-h/images/cover.jpg
 creator:
   author:
     agent_name: Winter, Nevin O. (Nevin Otto)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '50421'
     url: http://www.gutenberg.org/2009/agents/50421
 description: '"Illustrated from original photographs by the author and C. R. Birt."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60135#Mexico-and-Her-People-of-To-day-An-Account-of-the-Customs-Characteristics-Amusements-History-_
 gutenberg_issued: '2019-08-21'
 gutenberg_type: Text
 identifiers:
